@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Currency Converter</string>
+    <string name="app_name">Jai Hind</string>
     <string name="result_euros">%1$.2f Euros</string>
+    <string name="convert_button_text">Convert</string>
 </resources>
